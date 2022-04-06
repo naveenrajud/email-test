@@ -3,12 +3,6 @@ checking email notification for github email.
 
 Hi yes
 
-
-check 
-
-
-
-
 test 1
 
 Test 2
